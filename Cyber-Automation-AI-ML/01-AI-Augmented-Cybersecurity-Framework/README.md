@@ -1,42 +1,20 @@
-# AI-Augmented Cybersecurity Framework (AACF)
+# Cyber Automation, Artificial Intelligence, and Machine Learning
 
-**Author:** Rifat Abuelenin  
-**Course:** TIM-8315 — Cyber Automation, Artificial Intelligence, and Machine Learning  
-**Project Type:** Academic Technical Review and Conceptual Framework  
-**Status:** Research Portfolio Draft
+**Course:** TIM-8315 | **Author:** Rifat H. Abuelenin
 
-## Project Overview
+A portfolio index of eight course projects. Projects 02–08 are source-faithful Markdown transcriptions for review, **not independently verified, peer-reviewed, or experimentally validated research**. Claims and citations in original coursework require checking before public presentation as verified facts.
 
-This project examines how artificial intelligence, machine learning, and cybersecurity automation can support enterprise threat detection, incident response, and risk management.
+## Projects
 
-## Research Objectives
+1. [AI-Augmented Cybersecurity Framework (AACF)](01-AI-Augmented-Cybersecurity-Framework/) — already on GitHub; not replaced
+2. [Assess Benefits and Risks from Automation](02-Automation-Benefits-and-Risks/) — review pending
+3. [Determine Current Cyber Data Capture Use Cases and Practices](03-Cyber-Data-Capture/) — review pending
+4. [Compose a Specific Organization](04-Organizational-ADSAI-Analysis/) — review pending
+5. [Create a Report for Executives on Artificial Intelligence Elements](05-AI-Elements-Executive-Report/) — review pending
+6. [Create a Report for Specific Executives on Data Science Elements, Their Importance, and Cyber Security Options](06-Data-Science-Executive-Report/) — review pending
+7. [Explain the Specific Cybersecurity ADSAI Benefits for an Organization](07-ADSAI-Benefits/) — review pending
+8. [Assignment 8 Develop a Strategic Vision of ADSAI](08-ADSAI-Strategic-Vision/) — review pending
 
-- Examine AI-driven cybersecurity threats and defensive capabilities.
-- Evaluate the benefits and limitations of security automation.
-- Explore the integration of AI with Security Operations Centers (SOCs).
-- Analyze AI governance, human oversight, and cybersecurity risks.
-- Present a proposed AI-Augmented Cybersecurity Framework (AACF).
+## Publishing note
 
-## Research Scope
-
-This project builds upon doctoral coursework completed in 2025 and considers Microsoft enterprise technologies as an illustrative case-study context.
-
-## Proposed Contribution
-
-The AI-Augmented Cybersecurity Framework (AACF) is a conceptual approach to integrating AI-assisted security monitoring, automated response, risk management, and human oversight.
-
-## Research Limitations
-
-The proposed framework has not been implemented or experimentally validated. This project does not claim access to Microsoft internal systems or original operational testing.
-
-The full technical paper and its references are undergoing review.
-
-## Project Files
-
-- `README.md` — Project overview and research objectives.
-- `paper.md` — Revised academic technical paper (coming soon).
-
-## Author
-
-Rifat Abuelenin  
-Cybersecurity Research Portfolio
+Upload the **contents** of this package into the existing `Cyber-Automation-AI-ML/` directory. **Do not overwrite** the existing first project's files. GitHub web upload may require selecting files/folders or using GitHub Desktop for an entire folder tree.
